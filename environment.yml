@@ -368,4 +368,3 @@ dependencies:
     - us==2.0.2
     - webdriver-manager==3.2.2
     - zeep==4.0.0
-prefix: C:\Users\agarw\miniconda3\envs\musa-550-fall-2020
